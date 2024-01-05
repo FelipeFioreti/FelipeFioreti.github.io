@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Arimo', sans-serif;
+}
+
+body{
+    font-family: 'Arimo', sans-serif;
+    background-color: #fde4b161;
+}
+
+.container{
+    background-color: white;
+    border: 0.11rem solid rgb(76, 75, 75) ;
+    margin-bottom: 10px;
+}
+
+.nome h1{
+    background-color: rgb(0, 61, 116);
+    color: white;
+    font-weight: bold;
+    font-size: 2.5em;
+    padding: 25px;
+    margin: 0px;
+}
+
+.principal{
+    padding: 20px;
+}
+
+.resumo{
+    font-size: 1.3em;
+    padding: 10px;
+    font-style: normal;
+    align-items: center;
+}
+
+.resumo p {
+    padding: 0px 10px 0px 0px;
+}
+
+.caixa{
+    margin-bottom: 1.2rem;
+}
+
+.titulo{
+    font-size: 2em;
+    color: rgb(0, 61, 116);
+    border-bottom: 0.15rem solid rgb(194, 194, 194);
+    padding-bottom: 0.5rem;
+    margin-bottom: 1.2rem;
+}
+
+.data{
+    font-size: 1.1em;
+    align-items: center;
+    padding: 5px 0px 0px 20px;
+}
+
+.destaque{
+    font-size: 1.25em;
+    font-weight: bold;
+}
+
+.complemento{
+    font-size: 1.07em;
+    font-style: italic;
+}
+
+.informacao{
+    background-color: #F4F4F4;
+}
+
+.imagem{
+    border-radius: 99.9rem;
+}
+
+.item{
+    font-size: 1.15em;
+}
