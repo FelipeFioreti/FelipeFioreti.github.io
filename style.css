@@ -67,6 +67,7 @@ body{
     font-style: italic;
 }
 
+
 .informacao{
     background-color: #F4F4F4;
 }
@@ -76,5 +77,78 @@ body{
 }
 
 .item{
+    padding-right: 2rem;
     font-size: 1.15em;
 }
+
+@media (max-width: 991px) {
+    .resumo{
+        font-size: 1.2em;
+        text-align: justify;
+    }
+
+    .destaque{
+        font-size: 1em;
+    }
+
+    .complemento{
+        font-size: 0.95em;
+    }
+
+    .data{
+        font-size: 0.925em;
+    }
+
+    .item {
+        font-size: 1em;
+    }
+
+    .email .item{
+        font-size: 0.9em;
+    }
+
+    .interesse .item{
+        font-size: 1em;
+        text-align: justify;
+    }
+  }
+
+  @media (max-width: 767px){
+    .resumo{
+        font-size: 1em;
+        text-align: justify;
+    }
+
+    .destaque{
+        font-size: 0.8em;
+    }
+
+    .complemento{
+        font-size: 0.75em;
+    }
+    
+    .titulo{
+        font-size: 1.4em;
+    }
+
+    .data{
+        font-size: 0.65em;
+        padding: 0px;
+    }
+
+    .email .item{
+        font-size: 0.68em;
+    }
+
+    .item {
+        font-size: 0.8em;
+        padding: 0px;
+    }
+
+
+    .interesse .item{
+        font-size: 0.825em;
+        text-align: justify;
+    }
+  }
+
