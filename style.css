@@ -119,14 +119,14 @@ body{
         text-align: justify;
     }
 
-    .destaque{
-        font-size: 0.8em;
-    }
+        .destaque{
+            font-size: 0.8em;
+        }
 
-    .complemento{
-        font-size: 0.75em;
-    }
-    
+        .complemento{
+            font-size: 0.75em;
+        }
+        
     .titulo{
         font-size: 1.4em;
     }
@@ -152,3 +152,390 @@ body{
     }
   }
 
+  @media(max-width: 575px){
+    .container{
+        margin: 0px;
+        width: 100%;
+        height: 100%;
+    }
+  }
+
+  @media(max-width: 520px){
+    .email .item{
+        font-size: 0.65em;
+    }
+    .titulo{
+        font-size: 1.3em;
+    }
+  }
+
+  @media(max-width: 505px){
+    .email .item{
+        font-size: 0.62em;
+    }
+  }
+
+  @media(max-width: 485px){
+    .resumo{
+        font-size: 0.97em;
+        text-align: justify;
+    }
+    .email .item{
+        font-size: 0.62em;
+    }
+    .destaque{
+        font-size: 0.78em;
+    }
+
+    .complemento{
+        font-size: 0.74em;
+    }
+    
+  }
+
+  @media(max-width: 480px){
+    .titulo{
+        font-size: 1.25em;
+    }
+    .email .item{
+        font-size: 0.59em;
+    }
+    .item{
+        font-size: 0.7em;
+    }
+    .interesse .item{
+        font-size: 0.725em;
+        text-align: justify;
+    }
+  }
+
+  @media(max-width: 465px){
+    .resumo{
+        font-size: 0.94em;
+        text-align: justify;
+    }
+    .destaque{
+        font-size: 0.75em;
+    }
+
+    .complemento{
+        font-size: 0.72em;
+    }
+    
+    .titulo{
+        font-size: 1.2em;
+    }
+
+    .caixa-item{
+        padding-left: 12px;
+        padding-right: 4px;
+    }
+
+    .email .item{
+        font-size: 0.56em;
+    }
+    .item{
+        font-size: 0.7em;
+    }
+  }
+
+  @media(max-width: 440px){
+    .resumo{
+        font-size: 0.875em;
+        text-align: justify;
+    }
+    .destaque{
+        font-size: 0.72em;
+    }
+
+    .complemento{
+        font-size: 0.7em;
+    }
+    
+    .titulo{
+        font-size: 1.2em;
+    }
+
+    .data{
+        font-size: 0.672em;
+        padding: 0px;
+    }
+
+    .caixa-item{
+        padding-left: 12px;
+        padding-right: 4px;
+    }
+
+    .email .item{
+        font-size: 0.54em;
+    }
+    .item{
+        font-size: 0.7em;
+    }
+  }
+
+  @media (max-width: 425px){
+
+    .resumo{
+        font-size: 0.85em;
+        text-align: justify;
+        padding: 3px;
+    }
+
+    .destaque{
+        font-size: 0.7em;
+    }
+
+    .complemento{
+        font-size: 0.67em;
+    }
+    
+    .titulo{
+        font-size: 1.2em;
+    }
+
+    .data{
+        font-size: 0.65em;
+        padding: 0px;
+    }
+
+    .email .item{
+        font-size: 0.521em;
+    }
+
+    .item {
+        font-size: 0.71em;
+        padding: 0px;
+    }
+
+
+    .interesse .item{
+        font-size: 0.68em;
+        text-align: justify;
+    }
+  }
+
+  @media (max-width: 415px){
+    .resumo{
+        font-size: 0.8em;
+        text-align: justify;
+        padding: 3px;
+    }
+
+    .destaque{
+        font-size: 0.68em;
+    }
+
+    .complemento{
+        font-size: 0.65em;
+    }
+    
+    .titulo{
+        font-size: 1.05em;
+    }
+
+    .data{
+        font-size: 0.55em;
+        padding: 0px;
+    }
+
+    .email .item{
+        font-size: 0.49em;
+    }
+
+    .item {
+        font-size: 0.68em;
+        padding: 0px;
+    }
+
+
+    .interesse .item{
+        font-size: 0.64em;
+        text-align: justify;
+    }
+  }
+
+  @media (max-width: 390px){
+    .resumo{
+        font-size: 0.7em;
+        text-align: justify;
+        padding: 3px;
+    }
+
+    .destaque{
+        font-size: 0.62em;
+    }
+
+    .complemento{
+        font-size: 0.57em;
+    }
+    
+    .titulo{
+        font-size: 1.05em;
+    }
+
+    .data{
+        font-size: 0.5em;
+        padding: 0px;
+    }
+
+    .email .item{
+        font-size: 0.47em;
+    }
+
+    .item {
+        font-size: 0.63em;
+        padding: 0px;
+    }
+
+
+    .interesse .item{
+        font-size: 0.6em;
+        text-align: justify;
+    }
+  }
+
+  @media (max-width: 375px){
+    .resumo{
+        font-size: 0.7em;
+        text-align: justify;
+        padding: 3px;
+    }
+
+    .destaque{
+        font-size: 0.6em;
+    }
+
+    .complemento{
+        font-size: 0.58em;
+    }
+    
+    .titulo{
+        font-size: 1em;
+    }
+
+    .data{
+        font-size: 0.51em;
+        padding: 0px;
+    }
+
+    .email .item{
+        font-size: 0.45em;
+    }
+
+    .item {
+        font-size: 0.58em;
+        padding: 0px;
+    }
+
+
+    .interesse .item{
+        font-size: 0.56em;
+        text-align: justify;
+    }
+  }
+
+  @media (max-width: 365px){
+
+    .resumo{
+        font-size: 0.685em;
+        text-align: justify;
+        padding: 3px;
+    }
+
+    .destaque{
+        font-size: 0.57em;
+    }
+
+    .complemento{
+        font-size: 0.55em;
+    }
+    
+    .titulo{
+        font-size: 0.95em;
+    }
+
+    .data{
+        font-size: 0.48em;
+        padding: 0px;
+    }
+
+    .email .item{
+        font-size: 0.42em;
+    }
+
+    .item {
+        font-size: 0.54em;
+        padding: 0px;
+    }
+
+    .interesse .item{
+        font-size: 0.55em;
+        text-align: justify;
+    }
+  }
+
+  @media (max-width: 345px){
+    
+    .email .item{
+        font-size: 0.4em;
+    }
+
+  }
+
+
+  @media (max-width: 325px){
+    .col-3{
+        padding-left: 12px;
+        padding-right: 2px;
+    }
+
+    .resumo{
+        font-size: 0.67em;
+        text-align: justify;
+        padding: 3px;
+    }
+
+    .destaque{
+        font-size: 0.5em;
+    }
+
+    .complemento{
+        font-size: 0.47em;
+    }
+    
+    .titulo{
+        font-size: 0.9em;
+    }
+
+    .data{
+        font-size: 0.45em;
+        padding: 0px;
+    }
+
+    .email .item{
+        font-size: 0.37em;
+    }
+
+    .item {
+        font-size: 0.47em;
+        padding: 0px;
+    }
+
+
+    .interesse .item{
+        font-size: 0.47em;
+        text-align: justify;
+    }
+  }
+
+  @media(max-width: 310px){
+    .caixa-item{
+        padding-left: 12px;
+        padding-right: 0px;
+    }
+
+    .email .item{
+        font-size: 0.356em;
+    }
+  }
