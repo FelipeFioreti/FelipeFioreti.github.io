@@ -81,6 +81,16 @@ body{
     font-size: 1.15em;
 }
 
+.icone{
+    margin-bottom: 1.2rem;
+}
+
+.icone img{
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 50px;
+}
+
 @media (max-width: 991px) {
     .resumo{
         font-size: 1.2em;
@@ -145,6 +155,9 @@ body{
         padding: 0px;
     }
 
+    .icone img{
+        height: 40px;
+    }
 
     .interesse .item{
         font-size: 0.825em;
@@ -157,6 +170,10 @@ body{
         margin: 0px;
         width: 100%;
         height: 100%;
+    }
+
+    .icone img{
+        height: 35px;
     }
   }
 
@@ -172,6 +189,10 @@ body{
   @media(max-width: 505px){
     .email .item{
         font-size: 0.62em;
+    }
+
+    .icone img{
+        height: 30px;
     }
   }
 
@@ -388,10 +409,13 @@ body{
         padding: 0px;
     }
 
-
     .interesse .item{
         font-size: 0.6em;
         text-align: justify;
+    }
+
+    .icone img{
+        height: 25px;
     }
   }
 
@@ -522,10 +546,15 @@ body{
         padding: 0px;
     }
 
-
     .interesse .item{
         font-size: 0.47em;
         text-align: justify;
+    }
+
+    .icone img{
+        height: 23px;
+        margin-left: 3px;
+        margin-right: 3px;
     }
   }
 
