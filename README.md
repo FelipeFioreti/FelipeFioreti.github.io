@@ -1,1 +1,0 @@
-Repositório para currículo, para visualiza-lo utilize a URL: https://felipefioreti.github.io/index.html
