@@ -73,6 +73,7 @@ body{
 }
 
 .imagem{
+    padding-top: 3px;
     border-radius: 99.9rem;
 }
 
