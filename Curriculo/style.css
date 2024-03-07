@@ -448,6 +448,10 @@ body{
         font-size: 0.45em;
     }
 
+    .email .email_fatec{
+        font-size: 0.45em;
+    }
+
     .item {
         font-size: 0.58em;
         padding: 0px;
@@ -489,6 +493,10 @@ body{
         font-size: 0.42em;
     }
 
+    .email .email_fatec{
+        font-size: 0.43em;
+    }
+
     .item {
         font-size: 0.54em;
         padding: 0px;
@@ -506,6 +514,9 @@ body{
         font-size: 0.4em;
     }
 
+    .email .email_fatec{
+        font-size: 0.41em;
+    }
   }
 
 
@@ -542,6 +553,10 @@ body{
         font-size: 0.37em;
     }
 
+    .email .email_fatec{
+        font-size: 0.38em;
+    }
+
     .item {
         font-size: 0.47em;
         padding: 0px;
@@ -565,6 +580,9 @@ body{
         padding-right: 0px;
     }
 
+    .email .email_fatec{
+        font-size: 0.38em;
+    }
     .email .item{
         font-size: 0.356em;
     }
