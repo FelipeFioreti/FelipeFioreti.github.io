@@ -90,7 +90,6 @@ body{
     margin-right: 5px;
     height: 50px;
 }
-
 @media screen and (max-width: 991px) {
     .resumo{
         font-size: 1.2em;
