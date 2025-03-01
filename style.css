@@ -53,13 +53,17 @@ body{
 
 .data{
     font-size: 1.1em;
-    align-items: center;
-    padding: 5px 0px 0px 20px;
+    text-align: center;
+    margin: 10px 0 10px 0;
 }
 
 .destaque{
     font-size: 1.25em;
     font-weight: bold;
+}
+
+.destaque-habilidade{
+    font-size: 1.1em;
 }
 
 .complemento{
